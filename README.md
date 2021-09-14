@@ -1,7 +1,5 @@
 # JS-50 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-Let’s learn 50 General Frontend fundamentals of script building.
-
 ### 1. Polymorphism
 
 Polymorphism is the presentation of one interface for multiple data types. It provides an ability to call the same method on different JavaScript objects. As JavaScript is not a type-safe language, we can pass any type of data members with the methods.
@@ -27,5 +25,7 @@ The Singleton Pattern limits the number of instances of a particular object to j
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/4-Singleton/index.js)
 
 ### 5. Interfaces
+
+JavaScript uses what's called [duck typing](https://en.wikipedia.org/wiki/Duck_typing). If object has quack(), walk(), and fly() methods without requiring the implementation of some "Duckable" interface. The interface is exactly the set of functions that the code uses and the return values from those functions.
 
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/5-Interfaces/index.js)
