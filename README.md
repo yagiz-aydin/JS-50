@@ -19,3 +19,9 @@ With most of the gory details of OOJS now explained, this article shows how to c
 Encapsulation is the packing of data and functions into one component (for example, a class) and then controlling access to that component to make a "blackbox" out of the object. Because of this, a user of that class only needs to know its interface (that is, the data and functions exposed outside the class), not the hidden implementation.
 
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/3-Encapsulation/index.js)
+
+## 4. Singleton
+
+The Singleton Pattern limits the number of instances of a particular object to just one. This single instance is called the singleton. [SOLID](https://en.wikipedia.org/wiki/SOLID) five design principles intended to make software designs more understandable, flexible, and maintainable. The principles are a subset of many principles promoted by <b>Robert C. Martin</b>.
+
+[Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/4-Singleton/index.js)
