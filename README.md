@@ -8,4 +8,4 @@ The polymorphism is a core concept of an object-oriented paradigm that provides 
 
 Also, Polymorphism is derived from two words <b>poly</b> and <b>morphism</b> which means many and variance of form. In programming, polymorphism is defined as the ability of an object to take on different forms. In the next section, we’ll get a deeper understanding of how JavaScript handles polymorphism.
 
-[https://example.com](https://example.com)
+[Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/1-Polymorphism/index.js)
