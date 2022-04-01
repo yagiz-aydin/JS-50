@@ -39,6 +39,7 @@ A [closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) is
 ### 7.  Global Execution Context (GEC) & Callstack
 
 Whenever the JavaScript engine receives a script file, it first creates a default Execution Context known as the Global Execution Context (GEC). The [GEC](https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes) is the base/default Execution Context where all JavaScript code that is not inside of a function gets executed.For every JavaScript file, there can only be one GEC.
+
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/7-GEC&Callstack/index.js)
 
 
