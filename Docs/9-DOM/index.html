@@ -1,0 +1,34 @@
+=> Every element in JS Document Library is a DOM element
+
+=> Open console in browser write document click enter
+
+!OUTPUT
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body></body>
+</html>
+
+=> JS can access using DOM Library to directly HMTL code. 
+
+<html>
+    <head>
+    <script>
+        function setBodyAttr(attr, value) {
+            if (document.body) document.body[attr] = value;
+            else throw new Error("no support");
+        }
+    </script>
+    </head>
+    <body>
+    <div>
+        <form>
+        <p><b><code>text</code></b></p>
+        <select onChange="setBodyAttr('text', this.options[this.selectedIndex].value);">
+            <option value="black">black</option>
+            <option value="red">red</option>
+        </select>
+        </form>
+    </div>
+    </body>
+</html>

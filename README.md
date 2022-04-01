@@ -50,3 +50,8 @@ JavaScript [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/8-Hoisting/index.js)
 
 
+### 9. DOM
+
+The Document Object Model [(DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
+
+[Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/9-DOM/index.html)
