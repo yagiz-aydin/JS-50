@@ -29,3 +29,23 @@ The Singleton Pattern limits the number of instances of a particular object to j
 JavaScript uses what's called [duck typing](https://en.wikipedia.org/wiki/Duck_typing). If object has quack(), walk(), and fly() methods without requiring the implementation of some "Duckable" interface. The interface is exactly the set of functions that the code uses and the return values from those functions.
 
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/5-Interfaces/index.js)
+
+### 6. Closures
+
+A [closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time.
+
+[Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/6-Closures/index.js)
+
+### 7.  Global Execution Context (GEC) & Callstack
+
+Whenever the JavaScript engine receives a script file, it first creates a default Execution Context known as the Global Execution Context (GEC). The [GEC](https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes) is the base/default Execution Context where all JavaScript code that is not inside of a function gets executed.For every JavaScript file, there can only be one GEC.
+[Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/7-GEC&Callstack/index.js)
+
+
+### 8. Hoisting
+
+JavaScript [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting) refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code. Hoisting allows functions to be safely used in code before they are declared.
+
+[Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/8-Hoisting/index.js)
+
+

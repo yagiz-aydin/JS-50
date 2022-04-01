@@ -1,38 +1,37 @@
 ## Topics
-1. polymorphism 
-2. inheritance
-3. encapsulation 
-4. singleton
-5. interface
-6. value type
-7. reference type
-8. nullable
-9. non blocking IO
-10. promise
-11. garbage collection 
-12. call stack
-13. linked list
+1. Polymorphism 
+2. Inheritance
+3. Encapsulation 
+4. Singleton
+5. Interface
+6. Closures
+7. Global Executioner Context & Callstack
+8. Hoisting
+9. DOM
+10. Await
+11. Promise
+12. Garbage Collection 
+13. Lnked List
 14. dictionary
 15. hashtable
 16. hashset
 17. arraylist
 18. typescript
-19. exception
-20. bug
-21. debug
-22. debug build
+19. Exception
+20. Bug
+21. Debug
+22. Debug build
 23. release build
 24. assertion
 25. unit test
 26. design time 
 27. React
-28. Angular
 29. profiler
 30. binary tree
 31. bit shifting
 32. MVC
-33. webpack
-34. responsive design 
+33. Webpack
+34. Responsive Design 
 35. sprite
 36. serialization
 37. css
@@ -42,7 +41,6 @@
 41. event emitter
 42. protected
 43. static
-44. DOM
 45. typeof
 46. user story
 47. integration test 
