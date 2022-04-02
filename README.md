@@ -66,9 +66,9 @@ In JavaScript, users can declare a variable using 3 keywords that are [var, let,
 
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/10-LetConstVar/index.js)
 
-### 11. Promise & Await
+### 11. Promise & Await
 
-The [await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await) operator is used to wait for a Promise. It can only be used inside an async function within regular JavaScript code. Await expression causes async function execution to pause until a Promise is settled (that is, fulfilled or rejected), and to resume execution of the async function after fulfillment. When resumed, the value of the await expression is that of the fulfilled Promise.
+The [await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await) operator is used to wait for a [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise). It can only be used inside an async function within regular JavaScript code. Await expression causes async function execution to pause until a Promise is settled (that is, fulfilled or rejected), and to resume execution of the async function after fulfillment. When resumed, the value of the await expression is that of the fulfilled Promise.
 
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/11-Promise&Await/index.js)
 
