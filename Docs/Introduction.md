@@ -3,15 +3,15 @@
 2. Inheritance
 3. Encapsulation 
 4. Singleton
-5. Interface
+5. Interfaces
 6. Closures
 7. Global Executioner Context & Callstack
 8. Hoisting
 9. DOM
-10. Await
-11. Promise
+10. Let, Const & Var
+11. Promise & Await
 12. Garbage Collection 
-13. Lnked List
+13. Linked List
 14. dictionary
 15. hashtable
 16. hashset

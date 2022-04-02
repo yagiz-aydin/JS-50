@@ -72,4 +72,16 @@ The [await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Op
 
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/11-Promise&Await/index.js)
 
+### 12. Garbage Collection
+
+[Garbage Collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) is a form of automatic memory management. The garbage collector attempts to reclaim memory which was allocated by the program, but is no longer referenced—also called garbage. The majority of [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management) issues occur at this phase. The most difficult aspect of this stage is determining when the allocated memory is no longer needed.
+
+[Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/12-GarbageCollection/index.js)
+
+### 12. Linked List
+
+[A Linked List](https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/) is a linear data structure similar to an array. Unlike arrays, elements are not stored in a particular memory location or index. Rather each element is a separate object that contains a pointer or a link to the next object in that list as each element. (commonly called nodes)
+
+[Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/13-LinkedList/index.js)
+[How to implement Linked List](https://medium.com/geekculture/doubly-linked-lists-javascript-b13cc21ca59d)
 
