@@ -80,8 +80,7 @@ The [await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Op
 
 ### 12. Linked List
 
-[A Linked List](https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/) is a linear data structure similar to an array. Unlike arrays, elements are not stored in a particular memory location or index. Rather each element is a separate object that contains a pointer or a link to the next object in that list as each element. (commonly called nodes)
+[A Linked List](https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/) is a linear data structure similar to an array. Unlike arrays, elements are not stored in a particular memory location or index. Rather each element is a separate object that contains a pointer or a link to the next object in that list as each element. (commonly called nodes) [How to implement Linked List ?](https://medium.com/geekculture/doubly-linked-lists-javascript-b13cc21ca59d)
+
 
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/13-LinkedList/index.js)
-[How to implement Linked List](https://medium.com/geekculture/doubly-linked-lists-javascript-b13cc21ca59d)
-
