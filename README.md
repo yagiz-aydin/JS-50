@@ -1,5 +1,9 @@
 # JS-50 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
+### Introduction 
+
+
+
 ### 1. Polymorphism
 
 Polymorphism is the presentation of one interface for multiple data types. It provides an ability to call the same method on different JavaScript objects. As JavaScript is not a type-safe language, we can pass any type of data members with the methods.
@@ -55,3 +59,17 @@ JavaScript [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 The Document Object Model [(DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
 
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/9-DOM/index.html)
+
+### 10. Let Const & Var 
+
+In JavaScript, users can declare a variable using 3 keywords that are [var, let, and const](https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/). In this article, we will see the differences between the var, let, and const keywords. We will discuss the scope and other required concepts about each keyword. var keyword in JavaScript: The var is the oldest keyword to declare a variable in JavaScript. 
+
+[Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/10-LetConstVar/index.js)
+
+### 11. Promise & Await
+
+The [await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await) operator is used to wait for a Promise. It can only be used inside an async function within regular JavaScript code. Await expression causes async function execution to pause until a Promise is settled (that is, fulfilled or rejected), and to resume execution of the async function after fulfillment. When resumed, the value of the await expression is that of the fulfilled Promise.
+
+[Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/11-Promise&Await/index.js)
+
+
