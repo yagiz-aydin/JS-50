@@ -78,9 +78,15 @@ The [await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Op
 
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/12-GarbageCollection/index.js)
 
-### 12. Linked List
+### 13. Linked List
 
 [A Linked List](https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/) is a linear data structure similar to an array. Unlike arrays, elements are not stored in a particular memory location or index. Rather each element is a separate object that contains a pointer or a link to the next object in that list as each element. (commonly called nodes) [How to implement Linked List ?](https://medium.com/geekculture/doubly-linked-lists-javascript-b13cc21ca59d)
 
 
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/13-LinkedList/index.js)
+
+### 14. Callback
+
+A [callback](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function), also known as a call-after function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action.
+
+[Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/14-Callback/index.js)

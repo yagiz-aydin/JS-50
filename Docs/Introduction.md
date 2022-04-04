@@ -12,7 +12,7 @@
 11. Promise & Await
 12. Garbage Collection 
 13. Linked List
-14. dictionary
+14. Callback
 15. hashtable
 16. hashset
 17. arraylist
