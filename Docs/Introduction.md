@@ -44,6 +44,6 @@
 45. typeof
 46. user story
 47. integration test 
-48. mocking
+48. ssr
 49. postman
 50. stream
