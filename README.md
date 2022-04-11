@@ -90,3 +90,8 @@ The [await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Op
 A [callback](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function), also known as a call-after function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action.
 
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/14-Callback/index.js)
+
+## 15. CORS
+[CORS](https://enable-cors.org/server.html) stands for Cross-Origin Resource Sharing, also known a security mechanism built into (all) [modern web-browsers](https://enable-cors.org/client.html). The spec defines a set of headers that allow the browser and server to communicate about which requests are (and are not) allowed. CORS continues the spirit of the open web by bringing [API access](https://developer.mozilla.org/fr/docs/Web/HTTP/CORS) to all.
+
+[For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/15-CORS/index.js)
