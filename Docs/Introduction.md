@@ -14,10 +14,10 @@
 13. Linked List
 14. Callback
 15. CORS
-16. hashset & hashtable
-17. arraylist
-18. typescript
-19. Exception
+16. Implicit and Explicit Bindings
+17. Caching&Memoize
+18. EventLoop
+19. InfiniteCurrying
 20. Bug
 21. Debug
 22. Debug build
