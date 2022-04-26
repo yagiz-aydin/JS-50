@@ -2,7 +2,7 @@
 
 console.log("JS-50")
 setTimeout(() => console.log("LEARNING IS"), 0) // Task Queue
-Promise.resolve(() => console.log("FUN")) // Microtask Queue
+Promise.resolve(() => console.log("FUN")).then(res => res()) // Microtask Queue
 console.log("AMAZING")
 
 // JS-50
