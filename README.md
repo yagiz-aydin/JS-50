@@ -96,7 +96,26 @@ A [callback](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
 
 [For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/15-CORS/index.js)
 
-### 15. Implicit & Explicit Bindings
+### 16. Implicit & Explicit Bindings
 
+In the case of implicit binding, this binds to the object adjacent to the dot(.) operator while invoking the method. In the case of explicit binding, we can call a function with an object when the function is outside of the execution context of the object. `Difference` Implicit, model instances are directly injected into the route or controller actions whose time-hinted variable names match a route segment name. Whereas in Explicit Binding the router’s model method to specify the class for a given parameter.
 
 [For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/16-Implicit&Explicit/index.js)
+
+### 17. Caching & Memoize 
+
+Functions are an integral part of programming. They help add modularity and reusability to our code. Memoization is an optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again
+
+[For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/17-Caching&Memoize/index.js)
+
+### 18. Event Loop
+
+JavaScript has a runtime model based on an event loop, which is responsible for executing the code, collecting and processing events, and executing queued sub-tasks. Please follow the [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop) can find additional informations about Heap, Queue and Stack
+
+[For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/18-EventLoop/index.js)
+
+### 19. Infinite Currying
+
+Infinite Currying is essentially a technique for partial evaluations. Depending on how the function is invoked, the effect changes. Basically meaning that the context it’s used in effects the result of it.
+
+[For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/19-InfiniteCurrying/index.js)
