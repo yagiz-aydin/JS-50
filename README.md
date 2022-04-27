@@ -91,10 +91,10 @@ A [callback](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
 
 [Example with code](https://github.com/gaspetcan/JS-50/blob/main/Docs/14-Callback/index.js)
 
-### 15. CORS
-[CORS](https://enable-cors.org/server.html) stands for Cross-Origin Resource Sharing, also known a security mechanism built into (all) [modern web-browsers](https://enable-cors.org/client.html). The spec defines a set of headers that allow the browser and server to communicate about which requests are (and are not) allowed. CORS continues the spirit of the open web by bringing [API access](https://developer.mozilla.org/fr/docs/Web/HTTP/CORS) to all.
+### 15. Bind Call Apply Functions
+The call() and apply() are very similar methods. They both execute the bound function on the object immediately. The bind() method does not execute the function right away. Instead, it creates and returns a bound function that can be executed later.
 
-[For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/15-CORS/index.js)
+[For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/15-BindCall&Apply/index.js)
 
 ### 16. Implicit & Explicit Bindings
 
@@ -119,3 +119,8 @@ JavaScript has a runtime model based on an event loop, which is responsible for 
 Infinite Currying is essentially a technique for partial evaluations. Depending on how the function is invoked, the effect changes. Basically meaning that the context it’s used in effects the result of it.
 
 [For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/19-InfiniteCurrying/index.js)
+
+### 20. CORS
+[CORS](https://enable-cors.org/server.html) stands for Cross-Origin Resource Sharing, also known a security mechanism built into (all) [modern web-browsers](https://enable-cors.org/client.html). The spec defines a set of headers that allow the browser and server to communicate about which requests are (and are not) allowed. CORS continues the spirit of the open web by bringing [API access](https://developer.mozilla.org/fr/docs/Web/HTTP/CORS) to all.
+
+[For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/20-CORS/index.js)

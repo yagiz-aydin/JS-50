@@ -7,7 +7,6 @@ function add(a){
 
 console.log(add(5)(2)())
 
-
 // Bonus Question 
 // Implement this code in bellow
 
