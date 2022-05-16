@@ -121,6 +121,19 @@ Infinite Currying is essentially a technique for partial evaluations. Depending 
 [For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/19-InfiniteCurrying/index.js)
 
 ### 20. CORS
+
 [CORS](https://enable-cors.org/server.html) stands for Cross-Origin Resource Sharing, also known a security mechanism built into (all) [modern web-browsers](https://enable-cors.org/client.html). The spec defines a set of headers that allow the browser and server to communicate about which requests are (and are not) allowed. CORS continues the spirit of the open web by bringing [API access](https://developer.mozilla.org/fr/docs/Web/HTTP/CORS) to all.
 
 [For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/20-CORS/index.js)
+
+### 21. ECMAScript
+
+[ECMAScript](https://en.wikipedia.org/wiki/ECMAScript) is a scripting language specification on which JavaScript is based. Ecma International is in charge of standardizing ECMAScript.
+
+[For more details](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+
+### 22. Array
+
+[The Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) object, as with arrays in other programming languages, enables storing a collection of multiple items under a single variable name, and has members for performing common array operations. In JavaScript, arrays aren't primitives but are instead Array objects with the following core characteristics. Please, go [details](https://github.com/gaspetcan/JS-50/blob/main/Docs/22-Array/index.js) for array methods.
+
+[For more details](https://github.com/gaspetcan/JS-50/blob/main/Docs/22-Array/index.js)

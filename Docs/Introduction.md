@@ -1,49 +1,29 @@
 ## Topics
-1. Polymorphism 
-2. Inheritance
-3. Encapsulation 
-4. Singleton
-5. Interfaces
-6. Closures
-7. Global Executioner Context & Callstack
-8. Hoisting
-9. DOM
-10. Let, Const & Var
-11. Promise & Await
-12. Garbage Collection 
-13. Linked List
-14. Callback
-15. CORS
-16. Implicit and Explicit Bindings
-17. Caching&Memoize
-18. EventLoop
-19. InfiniteCurrying
-20. Bug
-21. Debug
-22. Debug build
-23. release build
-24. assertion
-25. unit test
-26. design time 
-27. React
-29. profiler
-30. binary tree
-31. bit shifting
-32. MVC
-33. Webpack
-34. Responsive Design 
-35. sprite
-36. serialization
-37. css
-38. property accessor 
-39. classpath
-40. buffer
-41. event emitter
-42. protected
-43. static
-45. typeof
-46. user story
-47. integration test 
-48. ssr
-49. postman
-50. stream
+1. Ecma Script
+2. Array 
+3. release build
+4. assertion
+5. unit test
+6. design time 
+7. React
+8. profiler
+9. stream
+10. binary tree
+11. bit shifting
+12. MVC
+13. Webpack
+14. Responsive Design 
+15. sprite
+16. serialization
+17. css
+18. property accessor 
+19. classpath
+20. buffer
+21. event emitter
+22. protected
+23. static
+24. typeof
+25. user story
+26. integration test 
+27. ssr
+28. postman
